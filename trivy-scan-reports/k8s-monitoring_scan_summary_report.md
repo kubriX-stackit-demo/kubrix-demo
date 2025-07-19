@@ -37,7 +37,7 @@
 </table>
 <h4>No Misconfigurations found</h4>
 <h3>Target <code>usr/bin/kepler</code></h3>
-<h4>Vulnerabilities (1)</h4>
+<h4>Vulnerabilities (2)</h4>
 <table>
     <tr>
         <th>Package</th>
@@ -52,6 +52,13 @@
         <td>HIGH</td>
         <td>v0.33.0</td>
         <td>0.35.0</td>
+    </tr>
+    <tr>
+        <td><code>golang.org/x/oauth2</code></td>
+        <td>CVE-2025-22868</td>
+        <td>HIGH</td>
+        <td>v0.21.0</td>
+        <td>0.27.0</td>
     </tr>
 </table>
 <h4>No Misconfigurations found</h4>
